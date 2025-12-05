@@ -1,1 +1,4 @@
-print('i am hungry')
+def convey(msg):
+    print(msg)
+
+convey('my greetings to you...')
