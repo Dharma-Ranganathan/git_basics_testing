@@ -1,2 +1,4 @@
 # git_basics_testing
-learning github and git 
+
+
+**Learnt some git commands like add, commit, push, log, status, clone the repo**
